@@ -39,6 +39,7 @@
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link {
@@ -47,6 +48,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text; /*coloca o gradiente apenas nos textos*/
+    font-weight: 400;
 }
 
 .container__imagem {
