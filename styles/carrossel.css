@@ -74,3 +74,8 @@
     padding: 1em 2.2em;
     font-weight: 700;
 }
+
+/*Estilizando o card de autora do mes*/
+.descricao__avaliacao {
+    margin-bottom: .5em;
+}
