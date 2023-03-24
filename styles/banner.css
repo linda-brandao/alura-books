@@ -34,8 +34,16 @@
 }
 
 @media screen and (min-width: 1024px) {
+    .banner {
+        padding: 3em 1.5em;
+    }
+
     .banner__titulo {
         font-size: 36px;
+    }
+
+    .banner__texto {
+        margin: 1.5em 0;
     }
 
     .banner__pesquisa {
