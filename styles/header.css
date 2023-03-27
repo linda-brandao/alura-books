@@ -111,3 +111,26 @@
         display: none;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .cabecalho {
+        padding: 0 3em;
+    }
+
+    .container {
+        gap: 1em;
+    }
+
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+        font-size: 20px;
+    }
+
+    .opcoes {
+        margin-right: auto;
+        margin-left: 3em;
+    }
+}
