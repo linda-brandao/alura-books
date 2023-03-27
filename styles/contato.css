@@ -67,15 +67,7 @@
 
 @media screen and (min-width: 1728px) {
     .contato {
-        gap: 2em;
-        padding: 3.5em 1.5em;
-    }
-
-    .contato__email {
-        width: 20%;
-    }
-
-    .contato__texto {
-        width: 60%;
+        gap: 4em;
+        padding: 3.5em 20vw;
     }
 }

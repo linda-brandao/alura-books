@@ -54,11 +54,6 @@ hr {
 
     .rodape__lista {
         border-left: 1px solid var(--cinza-escuro);
-    }
-
-    .rodape__item,
-    .rodape__lista-titulo {
-        margin-left: 2em;
-    }
-    
+        padding-left: 2em;
+    }    
 }
