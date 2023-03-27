@@ -46,3 +46,19 @@ hr {
         color: var(--cinza-escuro);
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .rodape {
+        padding: 4em 1em;
+    }
+
+    .rodape__lista {
+        border-left: 1px solid var(--cinza-escuro);
+    }
+
+    .rodape__item,
+    .rodape__lista-titulo {
+        margin-left: 2em;
+    }
+    
+}
